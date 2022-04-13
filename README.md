@@ -13,3 +13,5 @@ In this project I showcase the following:
 * Combing multiple datasets into a single data frame
 * Exploratory data analysis
 * Aesthetic data visualizations
+
+To view the notebook, click on the .ipynb file above, or view it [here](https://nbviewer.org/github/noah-kg/cleaning-and-analyzing-NYC-SAT-data/blob/main/NYC%20SAT%20Data.ipynb).
